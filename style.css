@@ -1,0 +1,16 @@
+#result{
+
+    width: 500px;
+    border-radius: 100px;
+    height: 100px;
+    background-color: grey;
+    color: white;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Odibee Sans', cursive;
+    background: url(bacl.jpeg) no-repeat;
+    background-size: cover;
+}
